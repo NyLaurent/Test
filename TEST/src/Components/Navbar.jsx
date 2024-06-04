@@ -58,8 +58,7 @@ const Navbar = () => {
 
         <div className='space-x-12 hidden lg:flex items-center'>
             <a href="/" className='hiddden lg:flex items-center text-brandPrimary hover:text-gray-900'>Login</a>
-            <button className='bg-brandPrimary text-white py-2 px-4 transition-all duration-300
-            rounded hover:bg-neutralDGrey'>SignUp</button>
+            <button className='btnPrimary'>SignUp</button>
 
         </div>
 
