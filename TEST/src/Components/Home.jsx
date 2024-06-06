@@ -2,6 +2,8 @@ import React from 'react';
 import { Carousel } from 'flowbite-react';
 import Banner from '../assets/farm1.png';
 
+
+
 const Home = () => {
   return (
     <div className='bg-neutralSilver'>
