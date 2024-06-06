@@ -5,6 +5,8 @@ import Service from './Components/Service'
 import About from './Components/About'
 import Products from './Components/Products'
 import Blog from './Components/Blog'
+import News from './Components/news'
+import Footer from './Components/footer'
 
 import './App.css'
 
@@ -21,6 +23,8 @@ function App() {
    <About/>
    <Products></Products>
    <Blog></Blog>
+   <News></News>
+   <Footer></Footer>
     </div>
 
    
