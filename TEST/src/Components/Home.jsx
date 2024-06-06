@@ -23,7 +23,7 @@ const Home = () => {
           </div>
           <div className='my-28 md:my-8 py-12 flex flex-col md:flex-row-reverse  items-center justify-between gap-12'>
             <div>
-              <img src={active} alt='Farm banner' className='md:w-1/2' />
+              <img src={Banner} alt='Farm banner' className='md:w-1/2' />
             </div>
             <div className='md:w-1/2'>
               <h1 className='text-5xl font-semibold mb-4 text-neutralDGrey md:w-3/4 leading-snug'>
